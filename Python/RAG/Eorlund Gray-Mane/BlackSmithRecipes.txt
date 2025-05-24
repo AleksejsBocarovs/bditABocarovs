@@ -1,0 +1,140 @@
+Leather Armor Materials: 4 Leather, 3 Leather Strips.
+Leather Boots Materials: 2 Leather, 2 Leather Strips.
+Leather Bracers Materials: 1 Leather, 2 Leather Strips.
+Leather Helmet Materials: 2 Leather, 1 Leather Strip.
+Iron Armor Materials: 3 Leather Strips, 5 Iron Ingots.
+Iron Boots Materials: 2 Leather Strips, 3 Iron Ingots.
+Iron Gauntlets Materials: 2 Leather Strips, 2 Iron Ingots.
+Iron Helmet Materials: 2 Leather Strips, 3 Iron Ingots.
+Iron Shield Materials: 1 Leather Strips, 4 Iron Ingots.
+Iron Dagger Materials: 1 Leather Strips, 1 Iron Ingot.
+Iron Sword Materials: 1 Leather Strips, 2 Iron Ingots.
+Iron Greatsword Materials: 2 Leather Strips, 4 Iron Ingots.
+Iron War Axe Materials: 2 Leather Strips, 2 Iron Ingots.
+Iron Battleaxe Materials: 2 Leather Strips, 4 Iron Ingots.
+Iron Mace Materials: 2 Leather Strips, 3 Iron Ingots.
+Iron Warhammer Materials: 3 Leather Strips, 4 Iron Ingots.
+Scaled Armor Materials: 2 Corundum Ingots, 2 Leathers, 3 Leather Strips, 3 Steel Ingots.
+Scaled Boots Materials: 1 Corundum Ingot, 1 Leather, 2 Leather Strips, 2 Steel Ingots.
+Scaled Bracers Materials: 1 Corundum Ingot, 1 Leather, 2 Leather Strips, 1 Steel Ingot.
+Scaled Helmet Materials: 1 Corundum Ingot, 1 Leather, 1 Leather Strips, 2 Steel Ingots.
+Steel Armor Materials: 3 Leather Strips, 1 Iron Ingot, 4 Steel Ingots.
+Steel Cuffed Boots Materials: 2 Leather Strips, 1 Iron Ingot, 3 Steel Ingots.
+Steel Shin Boots Materials: 2 Leather Strips, 1 Iron Ingot, 3 Steel Ingots.
+Steel Helmet Materials: 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Horned Helmet Materials: 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Nordic Gauntlets Materials: 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Imperial Gauntlets Materials: 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Shield Materials: 1 Leather Strips, 1 Iron Ingot, 3 Steel Ingots.
+Steel Dagger Materials: 1 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Steel Sword Materials: 1 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Greatsword Materials: 3 Leather Strips, 2 Iron Ingots, 4 Steel Ingots.
+Steel War Axe Materials: 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Steel Battleaxe Materials: 2 Leather Strips, 1 Iron Ingot, 4 Steel Ingots.
+Steel Mace Materials: 1 Leather Strips, 1 Iron Ingot, 3 Steel Ingots.
+Steel Warhammer Materials: 3 Leather Strips, 1 Iron Ingot, 4 Steel Ingots.
+Steel Plate Armor Materials: 3 Leather Strips, 1 Iron Ingot, 1 Corundum Ingot, 3 Steel Ingots.
+Steel Plate Boots Materials: 2 Leather Strips, 1 Iron Ingot, 1 Corundum Ingot, 2 Steel Ingots.
+Steel Plate Gauntlets Materials: 2 Leather Strips, 1 Iron Ingot, 1 Corundum Ingot, 2 Steel Ingots.
+Steel Plate Helmet Materials: 2 Leather Strips, 1 Iron Ingot, 1 Corundum Ingot, 2 Steel Ingots.
+Imperial Armor Materials: 3 Leather Strips, 2 Leathers, 4 Steel Ingots.
+Imperial Boots Materials: 2 Leather Strips, 1 Leather, 2 Steel Ingots.
+Imperial Bracers Materials: 2 Leather Strips, 1 Leather, 3 Steel Ingots.
+Imperial Helmet Materials: 1 Leather Strips, 1 Leather, 2 Steel Ingots.
+Imperial Shield Materials: 2 Leather Strips, 4 Steel Ingots.
+Dwarven Armor Materials: 3 Dwarven Metal Ingots, 3 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Boots Materials: 2 Dwarven Metal Ingots, 2 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Gauntlets Materials: 1 Dwarven Metal Ingot, 2 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Helmet Materials: 2 Dwarven Metal Ingots, 2 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Shield Materials: 2 Dwarven Metal Ingots, 1 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Battleaxe Materials: 2 Dwarven Metal Ingots, 2 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Dwarven Bow Materials: 2 Dwarven Metal Ingots, 1 Iron Ingot.
+Dwarven Dagger Materials: 1 Dwarven Metal Ingot, 1 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Greatsword Materials: 2 Dwarven Metal Ingots, 3 Leather Strips, 2 Iron Ingots, 2 Steel Ingots.
+Dwarven Mace Materials: 2 Dwarven Metal Ingots, 1 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Sword Materials: 1 Dwarven Metal Ingot, 1 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven War Axe Materials: 1 Dwarven Metal Ingot, 2 Leather Strips, 1 Iron Ingot, 1 Steel Ingot.
+Dwarven Warhammer Materials: 2 Dwarven Metal Ingots, 3 Leather Strips, 1 Iron Ingot, 2 Steel Ingots.
+Elven Armor Materials: 3 Leather Strips, 1 Leather, 1 Iron Ingot, 4 Refined Moonstones.
+Elven Boots Materials: 2 Leather Strips, 1 Leather, 1 Iron Ingot, 2 Refined Moonstones.
+Elven Gauntlets Materials: 2 Leather Strips, 1 Leather, 1 Iron Ingot, 1 Refined Moonstone.
+Elven Helmet Materials: 1 Leather Strips, 1 Leather, 1 Iron Ingot, 2 Refined Moonstones.
+Elven Shield Materials: 2 Leather Strips, 1 Iron Ingot, 4 Refined Moonstones.
+Elven Dagger Materials: 1 Leather Strips, 1 Iron Ingot, 1 Refined Moonstone, 1 Quicksilver Ingot.
+Elven Sword Materials: 1 Leather Strips, 1 Iron Ingot, 1 Refined Moonstone, 1 Quicksilver Ingot.
+Elven Greatsword Materials: 3 Leather Strips, 2 Iron Ingots, 2 Refined Moonstones, 1 Quicksilver Ingot.
+Elven War Axe Materials: 2 Leather Strips, 1 Iron Ingot, 1 Refined Moonstone, 1 Quicksilver Ingot.
+Elven Battleaxe Materials: 2 Leather Strips, 2 Iron Ingots, 2 Refined Moonstones, 1 Quicksilver Ingot.
+Elven Mace Materials: 1 Leather Strips, 1 Iron Ingot, 2 Refined Moonstones, 1 Quicksilver Ingot.
+Elven Warhammer Materials: 3 Leather Strips, 2 Iron Ingots, 2 Refined Moonstones, 1 Quicksilver Ingot.
+Elven Bow Materials: 2 Refined Moonstones, 1 Quicksilver Ingot.
+Glass Armor Materials: 3 Leather Strips, 1 Leather, 2 Refined Moonstones, 4 Refined Malachites.
+Glass Boots Materials: 2 Leather Strips, 1 Leather, 1 Refined Moonstone, 2 Refined Malachites.
+Glass Gauntlets Materials: 2 Leather Strips, 1 Leather, 1 Refined Moonstone, 1 Refined Malachite.
+Glass Helmet Materials: 1 Leather Strips, 1 Leather, 1 Refined Moonstone, 2 Refined Malachites.
+Glass Shield Materials: 2 Leather Strips, 1 Refined Moonstone, 4 Refined Malachites.
+Glass Dagger Materials: 1 Leather Strips, 1 Refined Moonstone, 1 Refined Malachite.
+Glass Sword Materials: 1 Leather Strips, 1 Refined Moonstone, 1 Refined Malachite.
+Glass Greatsword Materials: 3 Leather Strips, 2 Refined Moonstones, 2 Refined Malachites.
+Glass War Axe Materials: 2 Leather Strips, 1 Refined Moonstone, 1 Refined Malachite.
+Glass Battleaxe Materials: 2 Leather Strips, 2 Refined Moonstones, 2 Refined Malachites.
+Glass Mace Materials: 1 Leather Strips, 1 Refined Moonstone, 2 Refined Malachites.
+Glass Warhammer Materials: 3 Leather Strips, 2 Refined Moonstones, 3 Refined Malachites.
+Glass Bow Materials: 1 Refined Moonstone, 2 Refined Malachites.
+Orcish Armor Materials: 3 Leather Strips, 1 Iron Ingot, 4 Orichalcum Ingots.
+Orcish Boots Materials: 2 Leather Strips, 1 Iron Ingot, 3 Orichalcum Ingots.
+Orcish Gauntlets Materials: 2 Leather Strips, 1 Iron Ingot, 2 Orichalcum Ingots.
+Orcish Helmet Materials: 2 Leather Strips, 1 Iron Ingot, 2 Orichalcum Ingots.
+Orcish Shield Materials: 1 Leather Strips, 1 Iron Ingot, 3 Orichalcum Ingots.
+Orcish Dagger Materials: 1 Leather Strips, 1 Iron Ingot, 1 Orichalcum Ingot.
+Orcish Sword Materials: 1 Leather Strips, 1 Iron Ingot, 2 Orichalcum Ingots.
+Orcish Greatsword Materials: 3 Leather Strips, 2 Iron Ingots, 4 Orichalcum Ingots.
+Orcish War Axe Materials: 2 Leather Strips, 1 Iron Ingot, 2 Orichalcum Ingots.
+Orcish Battleaxe Materials: 2 Leather Strips, 1 Iron Ingot, 4 Orichalcum Ingots.
+Orcish Mace Materials: 1 Leather Strips, 1 Iron Ingot, 3 Orichalcum Ingots.
+Orcish Warhammer Materials: 3 Leather Strips, 1 Iron Ingot, 4 Orichalcum Ingots.
+Orcish Bow Materials: 1 Iron Ingot, 2 Orichalcum Ingots.
+Ebony Armor Materials: 5 Ebony Ingots, 3 Leather Strips.
+Ebony Boots Materials: 3 Ebony Ingots, 2 Leather Strips.
+Ebony Gauntlets Materials: 2 Ebony Ingots, 2 Leather Strips.
+Ebony Helmet Materials: 3 Ebony Ingots, 2 Leather Strips.
+Ebony Shield Materials: 4 Ebony Ingots, 1 Leather Strips.
+Ebony Dagger Materials: 1 Leather Strips, 1 Ebony Ingots.
+Ebony Sword Materials: 1 Leather Strips, 2 Ebony Ingots.
+Ebony Greatsword Materials: 3 Leather Strips, 5 Ebony Ingots.
+Ebony War Axe Materials: 2 Leather Strips, 2 Ebony Ingots.
+Ebony Battleaxe Materials: 2 Leather Strips, 5 Ebony Ingots.
+Ebony Mace Materials: 1 Leather Strips, 3 Ebony Ingots.
+Ebony Warhammer Materials: 3 Leather Strips, 5 Ebony Ingots.
+Ebony Bow Materials: 3 Ebony Ingots.
+Daedric Armor Materials: 3 Leather Strips, 5 Ebony Ingots, 1 Daedra Heart.
+Daedric Boots Materials: 2 Leather Strips, 3 Ebony Ingots, 1 Daedra Heart.
+Daedric Gauntlets Materials: 2 Leather Strips, 2 Ebony Ingots, 1 Daedra Heart.
+Daedric Helmet Materials: 2 Leather Strips, 3 Ebony Ingots, 1 Daedra Heart.
+Daedric Shield Materials: 1 Leather Strips, 4 Ebony Ingots, 1 Daedra Heart.
+Daedric Dagger Materials: 1 Leather Strips, 1 Ebony Ingot, 1 Daedra Heart.
+Daedric Sword Materials: 1 Leather Strips, 2 Ebony Ingots, 1 Daedra Heart.
+Daedric Battleaxe Materials: 2 Leather Strips, 5 Ebony Ingots, 1 Daedra Heart.
+Daedric Bow Materials: 1 Leather Strips, 3 Ebony Ingots, 1 Daedra Heart.
+Daedric Greatsword Materials: 3 Leather Strips, 5 Ebony Ingots, 1 Daedra Heart.
+Daedric Mace Materials: 1 Leather Strips, 3 Ebony Ingots, 1 Daedra Heart.
+Daedric War Axe Materials: 2 Leather Strips, 2 Ebony Ingots, 1 Daedra Heart.
+Daedric Warhammer Materials: 3 Leather Strips, 5 Ebony Ingots, 1 Daedra Heart.
+Dragonplate Armor Materials: 3 Dragon Scales, 2 Dragon Bones, 3 Leather Strips.
+Dragonplate Boots Materials: 3 Dragon Scales, 1 Dragon Bone, 2 Leather Strips.
+Dragonplate Gauntlets Materials: 2 Dragon Scales, 1 Dragon Bone, 2 Leather Strips.
+Dragonplate Helmet Materials: 2 Dragon Scales, 1 Dragon Bone, 2 Leather Strips.
+Dragonplate Shield Materials: 3 Dragon Scales, 1 Dragon Bone, 1 Leather Strips.
+Dragonscale Armor Materials: 4 Dragon Scales, 3 Leather Strips, 1 Leather, 2 Iron Ingots.
+Dragonscale Boots Materials: 2 Dragon Scales, 2 Leather Strips, 1 Leather, 1 Iron Ingot.
+Dragonscale Gauntlets Materials: 2 Dragon Scales, 2 Leather Strips, 1 Leather, 1 Iron Ingot.
+Dragonscale Helmet Materials: 2 Dragon Scales, 1 Leather Strips, 1 Leather, 1 Iron Ingot.
+Dragonscale Shield Materials: 4 Dragon Scales, 2 Leather Strips, 2 Iron Ingots.
+Dragonbone Battleaxe Materials: 3 Dragon Bones, 2 Ebony Ingots, 2 Leather Strips.
+Dragonbone Bow Materials: 2 Dragon Bones, 1 Ebony Ingot.
+Dragonbone Dagger Materials: 1 Dragon Bone, 1 Leather Strips.
+Dragonbone Greatsword Materials: 4 Dragon Bones, 1 Ebony Ingot, 3 Leather Strips.
+Dragonbone Mace Materials: 2 Dragon Bones, 1 Ebony Ingot, 1 Leather Strips.
+Dragonbone Sword Materials: 1 Dragon Bone, 1 Ebony Ingot, 1 Leather Strips.
+Dragonbone War Axe Materials: 1 Dragon Bone, 1 Ebony Ingot, 2 Leather Strips.
+Dragonbone Warhammer Materials: 3 Dragon Bones, 2 Ebony Ingots, 3 Leather Strips.
